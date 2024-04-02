@@ -5,7 +5,8 @@ export const metadata : Metadata = {
 const page = () => {
   return (
     <div>
-      Customers page
+      <h1 className="text-xl">Customer</h1>
+      <p className="text-md">I will implement this later.</p>
     </div>
   )
 }
